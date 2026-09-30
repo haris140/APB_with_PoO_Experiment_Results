@@ -8,8 +8,9 @@ The repository is provided to support **data availability, transparency, and rep
 
 ## Contents
 
-* `datasets/` — Datasets used in the study.
-* `experimental_logs/` — Experimental logs and recorded results generated during the experiments.
+* `Experiment1/` — Validator Node Performance with Persistent storage.
+* `Experiment2/` — Transaction Server Throughput Test.
+* `Experiment3/` — CometBFT vs Validator Consensus Protocol: Comparative Analysis.
 
 The materials correspond to the experiments described in the accompanying manuscript.
 
