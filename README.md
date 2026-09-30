@@ -6,11 +6,11 @@ This repository contains the **datasets and experimental logs** associated with 
 
 The repository is provided to support **data availability, transparency, and reproducibility** of the reported experiments.
 
-# My Dataset
+# My Data
 
-The complete dataset is hosted on Figshare because of its large size.
+The complete dataset and experimental logs are hosted on Figshare because of its large size.
 
-## Dataset
+## Download
 
 [Download the dataset from Figshare](https://figshare.com/articles/dataset/research-data_repository_Auditable_Permissioned_Blockchain_with_Proof_of_Observer_/34031400)
 
